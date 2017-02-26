@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/multijoy/user/config/system.yaml',
-    'modified' => 1487368679,
+    'modified' => 1488127480,
     'data' => [
         'absolute_urls' => false,
         'home' => [
